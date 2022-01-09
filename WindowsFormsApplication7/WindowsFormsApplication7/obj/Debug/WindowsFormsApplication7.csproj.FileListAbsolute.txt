@@ -1,0 +1,161 @@
+c:\users\rego\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\Rego\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإضافة.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإستردادات.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.السحب.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.IIIIII.resources
+C:\Users\Regooo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DeptBtn.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditExist.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditIn.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.form800.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form900.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.In.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InOuter.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OrgReport.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OriginalQty.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Out.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OuterOut.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OutMilitary.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PasswordLink.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.إضافة_خارج.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PrintButtons.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.معلومات_مستردات.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DeptBtn.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InMilitary.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإضافة.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإستردادات.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.السحب.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.IIIIII.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\IT\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ReturnHolder.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ReturnHolder.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.FirstTimeNewPassword.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.Passwordss.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.RenewPassword.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditExist.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditIn.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.form800.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form900.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.In.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InOuter.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OrgReport.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OriginalQty.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Out.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OuterOut.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OutMilitary.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PasswordLink.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.إضافة_خارج.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PrintButtons.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.معلومات_مستردات.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DeptBtn.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InMilitary.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإضافة.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإستردادات.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.السحب.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.IIIIII.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ReturnHolder.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.FirstTimeNewPassword.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.Passwordss.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.RenewPassword.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditExist.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditIn.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.form800.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form900.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.In.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InOuter.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OrgReport.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OriginalQty.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Out.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OuterOut.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OutMilitary.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PasswordLink.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.إضافة_خارج.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PrintButtons.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.معلومات_مستردات.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DeptBtn.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InMilitary.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإضافة.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإستردادات.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.السحب.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.IIIIII.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+F:\Life\APP\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojAssemblyReference.cache
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.ReportsHolder.newExist.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.MainPages.existingForm.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.MainPages.OriginalSubForm.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.MainPages.outSubForm.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.MainPages.returnedInfoForm.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OriginalQty.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ReturnHolder.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.FirstTimeNewPassword.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.Passwordss.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Small_Interfaces.RenewPassword.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditExist.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.EditIn.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.form800.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form900.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.In.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InOuter.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OrgReport.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Out.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OuterOut.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.OutMilitary.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PasswordLink.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.إضافة_خارج.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.PrintButtons.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.معلومات_مستردات.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DeptBtn.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.InMilitary.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإضافة.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.الإستردادات.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.السحب.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.IIIIII.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Resources.resources
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+E:\Life\app after visual desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb

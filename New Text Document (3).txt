@@ -1,0 +1,30 @@
+        private void dataGridView1_ColumnHeaderMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            
+            DataGridViewRow row = this.dataGridView1.Rows[e.ColumnIndex];
+
+            if (dataGridView1.Columns[e.ColumnIndex].SortMode != DataGridViewColumnSortMode.NotSortable)
+            {
+                if (e.ColumnIndex == newSortColumn)
+                {
+                    if (newColumnDirection == ListSortDirection.Ascending)
+                        newColumnDirection = ListSortDirection.Descending;
+                    else
+                        newColumnDirection = ListSortDirection.Ascending;
+                }
+
+                newSortColumn = e.ColumnIndex;
+
+                switch (newColumnDirection)
+                {
+                    case ListSortDirection.Ascending:
+                        dataGridView1.Sort(dataGridView1.Columns[newSortColumn], ListSortDirection.Ascending);
+                        break;
+                    case ListSortDirection.Descending:
+                        dataGridView1.Sort(dataGridView1.Columns[newSortColumn], ListSortDirection.Descending);
+                        break;
+                }
+            }
+
+            
+        }

@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68DF5A50-28A3-4CB9-8D1A-8376167C483C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication7</RootNamespace>
+    <AssemblyName>WindowsFormsApplication7</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\Administrator\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DB_BARCODE2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_BARCODE2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\newExist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\newExist.Designer.cs">
+      <DependentUpon>newExist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\الخارج.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>الخارج.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="SubForm\existingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForm\existingForm.Designer.cs">
+      <DependentUpon>existingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubForm\OriginalSubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForm\OriginalSubForm.Designer.cs">
+      <DependentUpon>OriginalSubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubForm\outSubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForm\outSubForm.Designer.cs">
+      <DependentUpon>outSubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubForm\returnedInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForm\returnedInfoForm.Designer.cs">
+      <DependentUpon>returnedInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OriginalQty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OriginalQty.Designer.cs">
+      <DependentUpon>OriginalQty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnedRPRT.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReturnedRPRT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReturnHolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnHolder.Designer.cs">
+      <DependentUpon>ReturnHolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Small Interfaces\كلمة سر جديده.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\كلمة سر جديده.Designer.cs">
+      <DependentUpon>كلمة سر جديده.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubForm\Passwordss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForm\Passwordss.Designer.cs">
+      <DependentUpon>Passwordss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Small Interfaces\RenewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\RenewPassword.Designer.cs">
+      <DependentUpon>RenewPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub Interfaces\EditExist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub Interfaces\EditExist.Designer.cs">
+      <DependentUpon>EditExist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub Interfaces\EditIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub Interfaces\EditIn.Designer.cs">
+      <DependentUpon>EditIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Small Interfaces\form800.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\form800.Designer.cs">
+      <DependentUpon>form800.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Small Interfaces\Form900.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\Form900.Designer.cs">
+      <DependentUpon>Form900.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\OrgReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\OrgReport.Designer.cs">
+      <DependentUpon>OrgReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\Out.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\Out.Designer.cs">
+      <DependentUpon>Out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\In.Designer.cs">
+      <DependentUpon>In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\InOuter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\InOuter.Designer.cs">
+      <DependentUpon>InOuter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\OuterOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\OuterOut.Designer.cs">
+      <DependentUpon>OuterOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\OutMilitary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\OutMilitary.Designer.cs">
+      <DependentUpon>OutMilitary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Small Interfaces\Choice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\.Designer.cs">
+      <DependentUpon>Choice.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub Interfaces\إضافة_خارج.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub Interfaces\إضافة_خارج.Designer.cs">
+      <DependentUpon>إضافة_خارج.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\خارج خارجية.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>خارج خارجية.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\خارج مسلحة.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>خارج مسلحة.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="SubForm\PrintButtons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForm\PrintButtons.Designer.cs">
+      <DependentUpon>PrintButtons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\الموجود خارجية.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>الموجود خارجية.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\الموجود.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>الموجود.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\كميات_دخول.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>كميات_دخول.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Sub Interfaces\معلومات_مستردات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub Interfaces\معلومات_مستردات.Designer.cs">
+      <DependentUpon>معلومات_مستردات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\موجود مسلحة.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>موجود مسلحة.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Small Interfaces\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\InMilitary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\ReportsHolder\InMilitary.Designer.cs">
+      <DependentUpon>InMilitary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPages\الإضافة.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPages\الإضافة.Designer.cs">
+      <DependentUpon>الإضافة.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPages\القائمة الرئيسية.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPages\القائمة الرئيسية.Designer.cs">
+      <DependentUpon>القائمة الرئيسية.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPages\الإستردادات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPages\الإستردادات.Designer.cs">
+      <DependentUpon>الإستردادات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPages\العهدة بالكامل.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPages\العهدة بالكامل.Designer.cs">
+      <DependentUpon>العهدة بالكامل.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPages\السحب.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPages\السحب.Designer.cs">
+      <DependentUpon>السحب.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Small Interfaces\OOO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Small Interfaces\OOO.Designer.cs">
+      <DependentUpon>OOO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\ReportsHolder\newExist.resx">
+      <DependentUpon>newExist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\الخارج.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>الخارج.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubForm\existingForm.resx">
+      <DependentUpon>existingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubForm\OriginalSubForm.resx">
+      <DependentUpon>OriginalSubForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubForm\outSubForm.resx">
+      <DependentUpon>outSubForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubForm\returnedInfoForm.resx">
+      <DependentUpon>returnedInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OriginalQty.resx">
+      <DependentUpon>OriginalQty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnedRPRT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReturnedRPRT.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnHolder.resx">
+      <DependentUpon>ReturnHolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\كلمة سر جديده.resx">
+      <DependentUpon>كلمة سر جديده.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubForm\Passwordss.resx">
+      <DependentUpon>Passwordss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\RenewPassword.resx">
+      <DependentUpon>RenewPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub Interfaces\EditExist.resx">
+      <DependentUpon>EditExist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub Interfaces\EditIn.resx">
+      <DependentUpon>EditIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\form800.resx">
+      <DependentUpon>form800.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\Form900.resx">
+      <DependentUpon>Form900.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\In.resx">
+      <DependentUpon>In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\InOuter.resx">
+      <DependentUpon>InOuter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\OrgReport.resx">
+      <DependentUpon>OrgReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\Out.resx">
+      <DependentUpon>Out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\OuterOut.resx">
+      <DependentUpon>OuterOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\OutMilitary.resx">
+      <DependentUpon>OutMilitary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\Choice.resx">
+      <DependentUpon>Choice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub Interfaces\إضافة_خارج.resx">
+      <DependentUpon>إضافة_خارج.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\خارج خارجية.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>خارج خارجية.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\خارج مسلحة.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>خارج مسلحة.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubForm\PrintButtons.resx">
+      <DependentUpon>PrintButtons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\الموجود خارجية.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>الموجود خارجية.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\الموجود.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>الموجود.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\كميات_دخول.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>كميات_دخول.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub Interfaces\معلومات_مستردات.resx">
+      <DependentUpon>معلومات_مستردات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\موجود مسلحة.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>موجود مسلحة.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\ReportsHolder\InMilitary.resx">
+      <DependentUpon>InMilitary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPages\الإضافة.resx">
+      <DependentUpon>الإضافة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPages\القائمة الرئيسية.resx">
+      <DependentUpon>القائمة الرئيسية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPages\الإستردادات.resx">
+      <DependentUpon>الإستردادات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPages\العهدة بالكامل.resx">
+      <DependentUpon>العهدة بالكامل.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPages\السحب.resx">
+      <DependentUpon>السحب.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Small Interfaces\OOO.resx">
+      <DependentUpon>OOO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="DB_BARCODE2DataSet.xsc">
+      <DependentUpon>DB_BARCODE2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_BARCODE2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_BARCODE2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_BARCODE2DataSet.xss">
+      <DependentUpon>DB_BARCODE2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgcntr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_left_backwards-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\800px_COLOURBOX4578600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-613518332-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floating_leaf-wallpaper-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-3558104_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path3720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMC1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Search_858732.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left-arrow-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assassins_creed_brotherhood_13-wallpaper-1366x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-arrow-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left-arrow-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grain-logo-icon-design-template-caa1f50156e1f432cebe8259956b547a_screen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy of Grain logo icon - Made with PosterMyWall.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
